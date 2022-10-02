@@ -1,0 +1,3 @@
+# Php-Login-with-3-attemps-and-lock-time
+Php login and sign up , the login has an attempt session that locks after 3 failed attempts
+In this code i created a Disable Login with 3 Attempts using PHP. This code will automatically disable a login button in a 3 consecutive invalid login attempts. The code use SESSION to store a number of attempts everytime the user login an invalid account. This is a user-friendly kind of program feel free to modify it. We will be using PHP as a scripting language that manage a database server to handle a bulk of data per transaction. It describe as an advance technology that manage both server and control-block of your machine
